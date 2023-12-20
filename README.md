@@ -8,9 +8,9 @@ This repository contains resources related to the Digital Piano. The Digital Pia
 
 # Contents
 
-* Main.c : Main Function
-* ButtonLed.c and ButtonLed.h : Initialization of GPIO ports and retrieves external button inputs
-* Sound.c and Sound.h : Score table for songs, reload values for major keys, initialization of DAC and SysTick, and handlers
+* `Main.c` : Main Function
+* `ButtonLed` : Initialization of GPIO ports and retrieves external button inputs
+* `Sound` : Score table for songs, reload values for major keys, initialization of DAC and SysTick, and handlers
 
 # Demo Video
 https://youtu.be/LOWW6T8jv0M
